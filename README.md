@@ -12,6 +12,6 @@ The output is the sorted data set that mestran in text files, one sorted data an
 
 This file "README.md" describes how the script and the codebook variables describing their work. 
 
-script: 
+Script: See run_analysis.R code.
 
-Codebook:
+Codebook: See Code Book.md
