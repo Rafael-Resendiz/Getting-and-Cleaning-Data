@@ -14,4 +14,4 @@ This file "README.md" describes how the script and the codebook variables descri
 
 Script: See run_analysis.R code.
 
-Codebook: See Code Book.md
+Codebook: See Code Book
