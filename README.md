@@ -30,7 +30,7 @@ Original Dataset(zip file):
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 Step 1
-
+-------
    Download a file from the web  
    fileUrl <- "link?accessType=DOWNLOAD"  
    download.file(fileUrl, destfile = "directory/fileName.ext", method = "curl")  
