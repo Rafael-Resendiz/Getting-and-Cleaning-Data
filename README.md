@@ -77,11 +77,11 @@ The Code Book describes variables, data and any transformations performed to cle
 Elements
 --------
 
- 1         Original information
-2    Attribute Information:
- 3   Tidy Data Set Information
-  4  Transformation:
-   5 Requirements:
-    6 Actions:
+     1. Original information
+     2. Attribute Information:
+     3. Tidy Data Set Information
+     4. Transformation:
+     5. Requirements:
+     6. Actions:
 
 
