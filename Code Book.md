@@ -31,7 +31,8 @@ For each record in the dataset it is provided:
 
 Tidy Data Set Information
 ==========================
-    Variable	        /Descritpion/
+    Variable	        Descritpion
+    --------
     Activity	        The activity peformed.
     Subject	            The ID of the subject.
     tBodyAcc-mean()-X	Mean time for acceleration of body for X direction.
