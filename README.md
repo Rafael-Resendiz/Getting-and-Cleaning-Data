@@ -68,4 +68,5 @@ Step 7
  
  Codebook: See Code Book
 ==========================
-
+About 
+The Code Book describes variables, data and any transformations performed to clean up and analysis data.
