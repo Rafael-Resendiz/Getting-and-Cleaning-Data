@@ -31,11 +31,11 @@ For each record in the dataset it is provided:
 
 Tidy Data Set Information
 ==========================
-    Variable	        Descritpion
-    Activity	        The activity peformed.
-    Subject	                The ID of the subject.
-    tBodyAcc-mean()-X	Mean time for acceleration of body for X direction.
-    tBodyAcc-mean()-Y	Mean time for acceleration of body for Y direction.
+    Variable	            Descritpion
+    Activity	            The activity peformed.
+    Subject	                    The ID of the subject.
+    tBodyAcc-mean()-X	     Mean time for acceleration of body for X direction.
+    tBodyAcc-mean()-Y    	Mean time for acceleration of body for Y direction.
     tBodyAcc-mean()-Z	Mean time for acceleration of body for Z direction.
     tBodyAcc-std()-X	Standard deviation of time for acceleration of body for X direction.
     tBodyAcc-std()-Y	Standard deviation of time for acceleration of body for Y direction.
