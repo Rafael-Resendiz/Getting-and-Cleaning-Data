@@ -73,3 +73,12 @@ __________________________
 About
 -----
 The Code Book describes variables, data and any transformations performed to clean up and analysis data.
+
+
+    Transformation:
+
+    Requirements:
+
+    Actions:
+
+
