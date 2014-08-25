@@ -25,14 +25,15 @@ Creates a second, independent tidy data set with the average of each variable fo
 A full description is available at the site where the data was obtained:
 Original description: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-Original Data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+Original Dataset(zip file): 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-1. Step one:
-Download a file from the web
-fileUrl <- "link?accessType=DOWNLOAD"
-download.file(fileUrl, destfile = "directory/fileName.ext", method = "curl")
+Step 1
+Download a file from the web  
+fileUrl <- "link?accessType=DOWNLOAD"  
+download.file(fileUrl, destfile = "directory/fileName.ext", method = "curl")  
 
-Step two 
+Step 2 
  Unzziped the file
  Set working directory setwd() 
  Unzipped the data set in 'UCI_HAR_Dataset'
