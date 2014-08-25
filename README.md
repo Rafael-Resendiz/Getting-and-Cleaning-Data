@@ -72,13 +72,16 @@ Step 7
 __________________________
 About
 -----
-The Code Book describes variables, data and any transformations performed to clean up and analysis data.
+The Code Book describes variables, data and any transformations performed to clean up and analysis data. 
 
+Elements
+--------
 
-    Transformation:
-
-    Requirements:
-
-    Actions:
+ 1         Original information
+2    Attribute Information:
+ 3   Tidy Data Set Information
+  4  Transformation:
+   5 Requirements:
+    6 Actions:
 
 
