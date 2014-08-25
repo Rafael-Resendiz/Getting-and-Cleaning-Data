@@ -29,32 +29,32 @@ Original Dataset(zip file):
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 Step 1
-Download a file from the web  
-fileUrl <- "link?accessType=DOWNLOAD"  
-download.file(fileUrl, destfile = "directory/fileName.ext", method = "curl")  
+   Download a file from the web  
+   fileUrl <- "link?accessType=DOWNLOAD"  
+   download.file(fileUrl, destfile = "directory/fileName.ext", method = "curl")  
 
 Step 2 
- Unzziped the file
- Set working directory setwd() 
- Unzipped the data set in 'UCI_HAR_Dataset'
- The dataset directory is same as this script.  
+    Unzziped the file
+    Set working directory setwd() 
+    Unzipped the data set in 'UCI_HAR_Dataset'
+    The dataset directory is same as this script.  
 
 Step 3
- Package Check and Install
- library(reshape2)
+    Package Check and Install
+    library(reshape2)
 
 Step 4
- Read dataset
+    Read dataset
 
 Step 5
- Import and prepare the test Data
- Import and prepare the train Data
+    Import and prepare the test Data
+    Import and prepare the train Data
  
 Step 6
- Make and write the Tidy Data
+    Make and write the Tidy Data
  
 Step 7
- Make the Tidy Data Average/Activity. Melt and Cast.
+    Make the Tidy Data Average/Activity. Melt and Cast.
  
  
 
