@@ -32,7 +32,7 @@ For each record in the dataset it is provided:
 Tidy Data Set Information
 ==========================
     Variable	        Descritpion
-    --------
+    --------            -----------
     Activity	        The activity peformed.
     Subject	            The ID of the subject.
     tBodyAcc-mean()-X	Mean time for acceleration of body for X direction.
@@ -106,17 +106,25 @@ Transformation:
 
 
 
-     Merges the training and the test sets to create one data set.
-     Extracts only the measurements on the mean and standard deviation for each measurement.
-     Uses descriptive activity names to name the activities in the data set
-     Appropriately labels the data set with descriptive activity names.
-     Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-     How run_analysis.R implements the above steps:
+         Merges the training and the test sets to create one data set.
+         Extracts only the measurements on the mean and standard deviation for each measurement.
+         Uses descriptive activity names to name the activities in the data set
+         Appropriately labels the data set with descriptive activity names.
+         Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+         How run_analysis.R implements the above steps:
 
-Require reshapre2 and data.table librareis.
-Load both test and train data
-Load the features and activity labels.
-Extract the mean and standard deviation column names and data.
-Process the data. There are two parts processing test and train data respectively.
-Merge data set.
+Requirements:
+-------------
+              package reshape2
+              datasets test and train
+              libraries reshape2 and data.table
+              reshape2 and data.table libraries.
+
+Actions:
+--------
+     Load datasets
+     Load datasets labels.
+     Extract the mean and standard desviation.
+     Process test and train data.
+     Merge data set.
 
