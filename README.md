@@ -37,38 +37,39 @@ Step 1
    download.file(fileUrl, destfile = "directory/fileName.ext", method = "curl")  
 
 Step 2
-
+------
     Unzziped the file
     Set working directory setwd() 
     Unzipped the data set in 'UCI_HAR_Dataset'
     The dataset directory is same as this script.  
 
 Step 3
-
+------
     Package Check and Install
     library(reshape2)
 
 Step 4
-
+------
     Read dataset
 
 Step 5
-
+------
     Import and prepare the test Data
     Import and prepare the train Data
  
 Step 6
-
+------
     Make and write the Tidy Data
  
 Step 7
-
+------
     Make the Tidy Data Average/Activity. Melt and Cast. 
     
     
  
  Codebook: See Code Book
 ==========================
+__________________________
 About
-____________________
+-----
 The Code Book describes variables, data and any transformations performed to clean up and analysis data.
