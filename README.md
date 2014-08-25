@@ -15,6 +15,7 @@ This file "README.md" describes how the script and the codebook variables descri
 Script: See run_analysis.R code.
 
 R script called run_analysis.R
+-------------
 ______________________________
 ------------------------------
 The R script.Merges the training and the test sets to create one data set.
